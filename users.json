@@ -1,27 +1,37 @@
 [
   {
     "id": 1,
-    "username": "amar",
-    "password": "amar123"
+    "username": "lokesh",
+    "password": "lokesh123"
   },
   {
     "id": 2,
-    "username": "akbar",
-    "password": "akbar123"
+    "username": "prathyusha",
+    "password": "prathyusha123"
   },
   {
     "id": 3,
-    "username": "antony",
-    "password": "antony123"
+    "username": "jaga",
+    "password": "jaga123"
   },
   {
     "id": 4,
-    "username": "john",
-    "password": "john123"
+    "username": "sindhu",
+    "password": "sindhu123"
   },
   {
     "id": 5,
-    "username": "paul",
-    "password": "paul123"
+    "username": "hari",
+    "password": "hari123"
+  },
+  {
+    "id": 6,
+    "username": "lavanya",
+    "password": "lavanya123"
+  },
+  {
+    "id": 7,
+    "username": "parthu",
+    "password": "parthu123"
   }
 ]
